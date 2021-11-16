@@ -9,9 +9,12 @@ void main(void) {
 printf("helloworld");
 }
 ```
-***난 정말 귀여워><***
->hihi
-
+***정말 귀여워><***
+hihi
+우와 `정말`귀여워
+짱|유채|짱
+--|----|--
+ㅎ|ㅎ|ㅎ
 <!---
 u-chae/u-chae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
